@@ -4,8 +4,11 @@ The code has been tested with Python 3.9.12 and python opencv (4.5.5).
 
 The execution is:
 
-cd [path_to_code_folder]
+```python
+git clone https://github.com/li9uan/plane_sweeping_python.git
+cd plane_sweeping_python/code
 python3 batch_compute_depth_maps.py ../fountain-P11
+```
 
 The output has been saved in tmp_result folder.
 
